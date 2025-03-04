@@ -29,6 +29,8 @@ title, publication time, tags, views, likes and dislikes, description, and comme
 are among the items included in the data. A category_id field, which differs by area, is  
 also included in the JSON file linked to the region.  
 
+Link: https://www.kaggle.com/datasets/datasnaek/youtube-new/data
+
 ## Tech Stack:  
 ➔ Languages SQL, Python3  
 ➔ Services AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM  
